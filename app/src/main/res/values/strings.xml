@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calculadoraPersonalizada</string>
+    <string name="introduce_tu_altura_en_m">Introduce tu altura en m</string>
+    <string name="introduce_tu_peso_en_kg">Introduce tu peso en kg</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="_0">0</string>
+    <string name="calculador_del_imc">CALCULADOR DEL IMC</string>
+</resources>
